@@ -1,0 +1,9 @@
+from turtle import *
+color('cyan')
+hideturtle()
+speed(1000)
+n = 1
+while True:
+  circle(n,88)
+  n = n + 1
+  left(179)
